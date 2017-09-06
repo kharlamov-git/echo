@@ -1,7 +1,7 @@
 #Проверка числа
 #
-tag = 7
+tag = ""
 
-while tag != 6:
+while tag != "6":
 	tag = input('???\n')
 print('!!!')
